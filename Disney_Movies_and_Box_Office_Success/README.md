@@ -1,0 +1,1 @@
+Who don't love Disney? Everyone love they movies I guess. So this project will be intersting for everyone. Thanks DataCamp and Sirinda Palahan for such a great dataset and helping to take insigths from this data.
