@@ -1,0 +1,1 @@
+Car roads is a most dangerous place in the world. There are many factors causing traffic mortality, but some of them is especially harmfull. Thanks to DataCamp for platform, and to Joel Östblom for guidance and interesting dataset.
