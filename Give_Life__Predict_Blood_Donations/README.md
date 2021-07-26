@@ -1,0 +1,1 @@
+This project shows the benefits of TPOT model selecter and Logistic Regression model. The dataset give us a possibility to work on important theme: blood donations. Thanks to DatCamp for platform and to Dimitri Denisjonok for guidance.
